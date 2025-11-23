@@ -1,5 +1,6 @@
 -- ========================================
--- ORACLE HR SCHEMA (WITHOUT CONSTRAINTS)12345
+-- ORACLE HR SCHEMA (WITHOUT CONSTRAINTS)
+--DJ
 -- ========================================
 
 -- 1️⃣ REGIONS
